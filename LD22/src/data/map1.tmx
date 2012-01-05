@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="tiles" tilewidth="8" tileheight="8">
+  <image source="../../../../../../../../Flex/AdamAtomic-flixel-2e9ebf7/org/flixel/data/autotiles.png" width="128" height="8"/>
+ </tileset>
+ <tileset firstgid="17" name="visualTiles" tilewidth="8" tileheight="8">
+  <image source="tiles.png" width="32" height="32"/>
+ </tileset>
+ <layer name="visual1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztx7ERgCAUBUFaUAcM6L9PHwUY8TXanbngWgOAPUc601X0y3zpSz2NdBc9AAAAAAAAAPCvByIcAvs=
+  </data>
+ </layer>
+ <layer name="l1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztz8EJACAQA0HTf9PWIAgXdAbyz2a9IdMHLtHRRUcXHV0yOB06fukAAAAAAAAA4MwGlRoAlw==
+  </data>
+ </layer>
+</map>
